@@ -11,7 +11,7 @@ This fork implements shell aliases out of the box.
 ## Installation
 
 ```sh
-git clone https://github.com/ChocolateOverflow/devour.git && cd devour && sudo make install
+git clone https://github.com/vulns-are-features-too/devour.git && cd devour && sudo make install
 ```
 
 ## Usage
